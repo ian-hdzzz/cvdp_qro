@@ -11,12 +11,13 @@ function NavBar() {
     return (
         <nav className="nav">
             <div className="menu" onClick={toggleMenu}>
-                <i className="fa-solid fa-bars"></i>
+                <i className={`fa-solid fa-bars ${isMobile ? 'hidden' : ''}`}></i>
             </div>
             <div className="logo">
                 CVDP
             </div>
-            <ul className={`nav-links ${isMobile ? 'active' : ''}`}>
+            <ul onClick={toggleMenu} className={`nav-links ${isMobile ? 'active' : ''}`}>
+                <i className={`fa-solid fa-x ${isMobile ? '' : 'hidden'}`}></i>
                 <li><Link to="/">Inicio</Link></li>
                 <li><Link to="/asesorias">Asesoría experiencia profesional</Link></li>
                 <li><Link to="/practicas">Prácticas profesionales y empleo</Link></li>
