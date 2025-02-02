@@ -94,6 +94,8 @@ const Home = () => {
             </div>
           </div>
           <div className="video">
+            <p><span>LinkedIn Learning</span> para Candidatos a Graduar</p>
+            <div className="gradient"></div>
               <video width="100%" controls>
                 <source src={video1}type="video/mp4" />
                 Tu navegador no soporta el video.

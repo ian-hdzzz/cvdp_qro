@@ -222,13 +222,33 @@ h2{
     width: 25%;
     margin-top: -10px;
 }
+
 .video{
+    margin-top: -50px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.video p{
+    font-size: 3rem;
+    margin-top: 40px;
+}
+.video span{
+    font-weight: bold;
+}
+.video > .gradient{
+    margin: 20px auto;
+    height: 15px;
+    width: 70%;
 }
 .video video{
     width: 100%;
     height: auto;
     max-width: 100%;
+    margin-top: 30px;
 }
 @media screen and (max-width:768px){
     .title{
@@ -264,6 +284,16 @@ h2{
     }
     .info{
         width: 90%;
+    }
+    .video p{
+        font-size: 1.2rem;
+    }
+    .video > .gradient{
+        width: 85%;
+        height: 10px;
+    }
+    .video video{
+        margin-top: 0;
     }
     
 }
