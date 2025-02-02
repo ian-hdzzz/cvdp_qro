@@ -15,7 +15,7 @@ function App() {
       {/* Incluir el Navbar en la App */}
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/asesorias" element={<Asesoria />} />
         <Route path="/practicas" element={<Practicas />} />
         <Route path="/empresas" element={<Empresa />} />
