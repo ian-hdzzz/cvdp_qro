@@ -16,8 +16,8 @@ function NavBar() {
             <div className="logo">
                 CVDP
             </div>
-            <ul onClick={toggleMenu} className={`nav-links ${isMobile ? 'active' : ''}`}>
-                <i className={`fa-solid fa-x ${isMobile ? '' : 'hidden'}`}></i>
+            <ul className={`nav-links ${isMobile ? 'active' : ''}`}>
+                <i onClick={toggleMenu} className={`fa-solid fa-x ${isMobile ? '' : 'hidden'}`}></i>
                 <li><Link to="/">Inicio</Link></li>
                 <li><Link to="/asesorias">Asesoría experiencia profesional</Link></li>
                 <li><Link to="/practicas">Prácticas profesionales y empleo</Link></li>
