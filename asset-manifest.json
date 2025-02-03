@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/cvdp_qro/static/css/main.72988aee.css",
-    "main.js": "/cvdp_qro/static/js/main.9e0b0a44.js",
+    "main.css": "/cvdp_qro/static/css/main.d6034565.css",
+    "main.js": "/cvdp_qro/static/js/main.c9066bf9.js",
     "static/js/488.3d9ff574.chunk.js": "/cvdp_qro/static/js/488.3d9ff574.chunk.js",
     "static/media/video1.mp4": "/cvdp_qro/static/media/video1.694d6c91666fca345151.mp4",
     "static/media/bg.jpg": "/cvdp_qro/static/media/bg.0d66fdcf482699b76169.jpg",
     "static/media/ig.png": "/cvdp_qro/static/media/ig.6f676173b2c88dfb635a.png",
+    "static/media/lis.png": "/cvdp_qro/static/media/lis.de3f8e736dc97834e617.png",
+    "static/media/clem.png": "/cvdp_qro/static/media/clem.3ff1689b7030d1fef679.png",
+    "static/media/adri.png": "/cvdp_qro/static/media/adri.38ab82e5975fca47dd6c.png",
     "static/media/ig3.png": "/cvdp_qro/static/media/ig3.626619a8c92ee1e4508a.png",
+    "static/media/stephano.png": "/cvdp_qro/static/media/stephano.8f6be051d4f06d563b0e.png",
     "static/media/ig6.png": "/cvdp_qro/static/media/ig6.3591af483f9217e2b93e.png",
     "static/media/ig4.png": "/cvdp_qro/static/media/ig4.b602962b5a3edb2ce8f5.png",
     "static/media/ig1.png": "/cvdp_qro/static/media/ig1.1900ee4d398350823de5.png",
@@ -15,12 +19,12 @@
     "static/media/Gotham-Black.otf": "/cvdp_qro/static/media/Gotham-Black.520408fe3462b1d14d05.otf",
     "static/media/teus1.png": "/cvdp_qro/static/media/teus1.385b9b136f493a15e99b.png",
     "index.html": "/cvdp_qro/index.html",
-    "main.72988aee.css.map": "/cvdp_qro/static/css/main.72988aee.css.map",
-    "main.9e0b0a44.js.map": "/cvdp_qro/static/js/main.9e0b0a44.js.map",
+    "main.d6034565.css.map": "/cvdp_qro/static/css/main.d6034565.css.map",
+    "main.c9066bf9.js.map": "/cvdp_qro/static/js/main.c9066bf9.js.map",
     "488.3d9ff574.chunk.js.map": "/cvdp_qro/static/js/488.3d9ff574.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72988aee.css",
-    "static/js/main.9e0b0a44.js"
+    "static/css/main.d6034565.css",
+    "static/js/main.c9066bf9.js"
   ]
 }
