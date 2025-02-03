@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cvdp_qro/static/css/main.024421f7.css",
+    "main.css": "/cvdp_qro/static/css/main.72988aee.css",
     "main.js": "/cvdp_qro/static/js/main.9e0b0a44.js",
     "static/js/488.3d9ff574.chunk.js": "/cvdp_qro/static/js/488.3d9ff574.chunk.js",
     "static/media/video1.mp4": "/cvdp_qro/static/media/video1.694d6c91666fca345151.mp4",
@@ -15,12 +15,12 @@
     "static/media/Gotham-Black.otf": "/cvdp_qro/static/media/Gotham-Black.520408fe3462b1d14d05.otf",
     "static/media/teus1.png": "/cvdp_qro/static/media/teus1.385b9b136f493a15e99b.png",
     "index.html": "/cvdp_qro/index.html",
-    "main.024421f7.css.map": "/cvdp_qro/static/css/main.024421f7.css.map",
+    "main.72988aee.css.map": "/cvdp_qro/static/css/main.72988aee.css.map",
     "main.9e0b0a44.js.map": "/cvdp_qro/static/js/main.9e0b0a44.js.map",
     "488.3d9ff574.chunk.js.map": "/cvdp_qro/static/js/488.3d9ff574.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.024421f7.css",
+    "static/css/main.72988aee.css",
     "static/js/main.9e0b0a44.js"
   ]
 }
